@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421617083692",
+    "project_id": "autentificacaomvvm",
+    "storage_bucket": "autentificacaomvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421617083692:android:39c382871b5c274ec8f889",
+        "android_client_info": {
+          "package_name": "com.example.registerfragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421617083692-d7vqk2hve88sj5a9ac85ops0nuit4gfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7kMaiIPHx6pM1w5YkAmKzXqvaleH8Atw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421617083692-d7vqk2hve88sj5a9ac85ops0nuit4gfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
